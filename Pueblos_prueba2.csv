@@ -35,7 +35,7 @@
 34,Ciudad de México,Hidalgo,Mineral del Chico,7830.00,9125.00,194.00,7569.30,8209.26
 35,Ciudad de México,Hidalgo,Mineral del Monte,13371.00,14960.00,53.00,11480.95,12451.62
 36,Ciudad de México,Hidalgo,Tecozautla,35067.00,37674.00,577.00,6222.88,6749.00
-37,Ciudad de México,Hidalgo,Zimapán,42913.00,41401.00,872.24 km2,8272.90,8972.35
+37,Ciudad de México,Hidalgo,Zimapán,42913.00,41401.00,872.24,8272.90,8972.35
 38,Guadalajara,Jalisco,Lagos de Moreno,153817.00,164981.00,2516.00,12759.51,13838.28
 39,Guadalajara,Jalisco,Mascota,14245.00,14477.00,1844.00,10109.04,10963.73
 40,Guadalajara,Jalisco,Mazamitla,13225.00,13799.00,289.00,10211.38,11074.72
@@ -89,7 +89,7 @@
 90,Ciudad de México,Querétaro,Tequisquiapan,61307.00,69563.00,343.00,10920.80,11844.11
 91,Mérida,Quintana Roo,Isla Mujeres,16203.00,19495.00,1100.00,12831.77,13916.65
 92,Mérida,Quintana Roo,Tulum,28263.00,32714.00,2040.94,16961.00,10751.17
-93,Mérida,Quintana Roo,Bacalar,32000.00,39111.00,7161.1 km2,12477.31,13532.23
+93,Mérida,Quintana Roo,Bacalar,32000.00,39111.00,7161.10,12477.31,13532.23
 94,Guadalajara,San Luis Potosí,Aquismón,43274.00,52435.00,794.00,3878.57,4206.49
 95,Guadalajara,San Luis Potosí,Catorce,9800.00,9863.00,1945.00,6725.84,7294.49
 96,Guadalajara,San Luis Potosí,Xilitla,56623.00,43652.00,398.00,4778.21,5182.19
@@ -107,7 +107,7 @@
 108,Veracruz,Veracruz,Coatepec,83420.00,87575.00,202.00,13381.50,14512.86
 109,Veracruz,Veracruz,Coscomatepec,48976.00,50195.00,158.00,4686.39,5082.61
 110,Veracruz,Veracruz,Xico,38825.00,34602.00,179.00,8595.15,9321.84
-111,Veracruz,Veracruz,Orizaba,120995.00,126005.00,27.9 / 0.03885%,30265.07,32823.89
+111,Veracruz,Veracruz,Orizaba,120995.00,126005.00,27.90,30265.07,32823.89
 112,Veracruz,Veracruz,Papantla,171677.00,185272.00,1457.00,8405.48,9116.14
 113,Veracruz,Veracruz,Zozocolco de Hidalgo,14691.00,12256.00,69.00,3897.03,4226.51
 114,Mérida,Yucatán,Izamal,25980.00,26801.00,275.92,1889.01,2430.72
@@ -118,7 +118,7 @@
 119,Guadalajara,Zacatecas,Pinos,76639.00,76220.00,3169.00,6429.03,6972.58
 120,Guadalajara,Zacatecas,Sombrerete,61188.00,62433.00,3607.00,8074.59,8757.27
 121,Guadalajara,Zacatecas,Teúl de González Ortega,4666.00,5381.00,679.00,9449.13,10248.02
-51 A,Ciudad de México,México,Teotihuacán,54549.00,64682.00,83.00,10888.64,11809.24
 51 A,Ciudad de México,México,San Martín de las Pirámides,25139.00,26033.00,70.00,9947.13,10788.13
+51 A,Ciudad de México,México,Teotihuacán,54549.00,64682.00,83.00,10888.64,11809.24
 81 A,Ciudad de México,Puebla,San Andrés Cholula,127496.00,156754.00,63.00,11324.70,12282.17
 81 B,Ciudad de México,Puebla,San Pedro Cholula,122895.00,123037.00,77.00,15108.82,16386.22
